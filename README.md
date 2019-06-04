@@ -2,5 +2,5 @@
 # Spring Boot JWT Example
 
 ```
-Spring Boot + JJWT
+Spring Boot(Web, Security) + JJWT
 ```
